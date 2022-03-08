@@ -11,3 +11,4 @@ Requirments:
 
 In case of any questions contact me through my mail:
 Raghidhanihabli@hotmail.com
+![SampleOutput](https://user-images.githubusercontent.com/98494504/157342483-1b7a25d7-8e41-4b07-9020-80579679eafb.PNG)
