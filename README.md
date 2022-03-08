@@ -4,9 +4,10 @@ This python projects detects:
 - Counts the number of bows
 - Renders the angle between shoulder,hip, and knee. 
 - It also detects the person's face direction.
+
 Requirments:
-OpenCV
-Mediapipe
+- OpenCV
+- Mediapipe
 
 In case of any questions contact me through my mail:
 Raghidhanihabli@hotmail.com
